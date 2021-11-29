@@ -1,0 +1,46 @@
+   .name{
+       text-align: center;
+       text-decoration: none;
+       font-size: 20pt;
+       padding-top: 20pt;
+       margin: 0pt;
+   }
+   .MainHeader{
+       align-items: center;
+       padding: 10px;
+   }
+  .container{
+      max-width: 1200px;
+      margin: 0 auto;
+      padding-top: 0 auto;
+      height: 100%;
+  }
+  .Div1{
+      position: absolute;
+      width: 100%;
+      height: 400px;
+      background-color:#545454;
+      max-width: 1200px;
+
+  }
+  .MainImage{
+      position: absolute;
+      left: 50%;
+  }
+  .h1{
+      align-items: center;
+      width: 500px;
+      color: white;
+      padding-top: 140px;
+      padding-left: 15px;
+  }
+  .Div2{
+      position: relative;
+      padding-top: 40%;
+      text-align: center;  
+  }
+  .SWE{
+      position: relative;
+      top: 5rem;
+      left: 58%;
+  }
